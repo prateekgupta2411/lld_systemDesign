@@ -1,4 +1,4 @@
-package Not_SRP;
+package solid_principle.first_principle_SRP.Violating_SRP;
 
 public class Main {
     public static void main(String[] args) {

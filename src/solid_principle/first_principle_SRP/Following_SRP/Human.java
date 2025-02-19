@@ -1,4 +1,4 @@
-package Follow_SRP;
+package solid_principle.first_principle_SRP.Following_SRP;
 
 public class Human {
     String name;
